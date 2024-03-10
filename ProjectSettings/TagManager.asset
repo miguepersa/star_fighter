@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ProjectilePlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Asteroid
+  - ProjectilePlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 945414293
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Middle
+    uniqueID: 2586231293
+    locked: 0
+  - name: Player
+    uniqueID: 2499896357
+    locked: 0
+  - name: Foreground
+    uniqueID: 2991844985
+    locked: 0
